@@ -1,0 +1,192 @@
+DELTARUNE msu by frozenqub
+--------------------------
+
+Track 1 (Opening Theme)
+AUDIO_DRONE + AUDIO_INTRONOISE
+
+Track 2 (Light World Overworld)
+Field of Hopes and Dreams
+
+Track 3 (Rain State Overworld)
+The place where it rained
+
+Track 4 (Bunny Overworld)
+Berdly
+
+Track 5 (Light World Lost Woods)
+Scarlet Forest
+
+Track 6 (Opening Story Credits)
+The Legend
+
+Track 7 (Kakariko Village)
+My Castle Town
+
+Track 8 (Mirror Portal)
+snd_dtrans_lw
+
+Track 9 (Dark World Overworld)
+Dark Sanctuary
+Cybers World (Alt)
+
+Track 10 (Pedestal Pull Sequence)
+fanfare
+
+Track 11 (File Select/Game Over)
+Before the Story
+
+Track 12 (Kakariko Guards Summoned)
+Rude Buster
+
+Track 13 (Dark Death Mountain)
+Ever Higher
+
+Track 14 (Money Making Game)
+Physical Challenge
+
+Track 15 (Dark World Lost Woods)
+ATRIUM
+
+Track 16 (Hyrule Castle)
+Flower Castle
+Dark Sanctuary (Alt)
+
+Track 17 (Generic Light World Dungeon)
+Quiet Glade
+
+Track 18 (Cave)
+ANOTHER HIM
+
+Track 19 (Boss Victory)
+Your Power 
+
+Track 20 (Sanctuary)
+Old wooden rafters
+
+Track 21 (Generic Boss Battle)
+Ruder Buster
+
+Track 22 (Generic Dark World Dungeon)
+Fireplace
+
+Track 23 (Shop/Fortune Teller)
+Lantern
+
+Track 24 (Cave 2)
+Flashback (excerpt)
+
+Track 25 (Princess Zelda's Rescue)
+Lost Girl
+
+Track 26 (Crystal Get)
+findher.ogg
+
+Track 27 (Fairy Fountain)
+Gyaa Ha ha!
+
+Track 28 (Agahnim's Theme)
+Breath
+
+Track 29 (Ganon Appears)
+Susie
+
+Track 30 (Ganon's Theme)
+Heavy Footsteps
+
+Track 31 (Ganon Fight)
+GUARDIAN
+
+Track 32 (Triforce Room)
+THE HOLY
+
+Track 33 (Triumphant Return)
+SOUTH OF THE BORDER!! + Festival + A Town Called Hometown
+
+Track 34 (Credits)
+Don't Forget + Until Next Time + Neverending Night + Field of Hopes and Dreams (Credits Version)
+
+Track 35 (Eastern Palace)
+Dungeon EP (Card Castle)
+
+Track 36 (Desert Palace)
+Sunset of Seven Suns
+
+Track 37 (Agahnim's Tower)
+Running Sky
+The Second Sanctuary (Alt)
+
+Track 38 (Swamp Palace)
+Quiet Glade
+
+Track 39 (Palace of Darkness)
+Fireplace
+
+Track 40 (Misery Mire)
+Pandora Palace
+
+Track 41 (Skull Woods)
+Quiet Glade
+
+Track 42 (Ice Palace)
+Pandora Palace
+
+Track 43 (Tower of Hera)
+Sunset of Seven Suns
+
+Track 44 (Thieves' Town)
+Cyber City
+
+Track 45 (Turtle Rock)
+Fireplace
+
+Track 46 (Ganon's Tower)
+The Second Sanctuary
+Flower Castle (Alt)
+
+Track 47 (Eastern Palace Boss)
+Checker Dance
+
+Track 48 (Desert Palace Boss)
+Miniboss (Ripple)
+
+Track 49 (Agahnim's Tower Boss)
+BURNING EYES
+
+Track 50 (Swamp Palace Boss)
+Flower Foyer + Violet Tactics
+
+Track 51 (Palace of Darkness Boss)
+A DARK ZONE
+
+Track 52 (Misery Mire Boss)
+Knock You Down !!
+
+Track 53 (Skull Woods Boss)
+Flower Man
+
+Track 54 (Ice Palace Boss)
+Chaos King
+
+Track 55 (Tower of Hera Boss)
+The World Revolving
+
+Track 56 (Thieves' Town Boss)
+BIG SHOT
+
+Track 57 (Turtle Rock Boss)
+Hammer of Justice
+
+Track 58 (Ganon's Tower Boss)
+Black Knife
+
+Track 59 (Ganon's Tower 2)
+The Third Sanctuary
+Running Sky (Alt)
+
+Track 60 (Light World 2)
+Garden of Hopes and Dreams (Toby Fox & insaneintherainmusic)
+
+Track 61 (Dark World 2)
+Neverending Night
+TV World (Alt)
+

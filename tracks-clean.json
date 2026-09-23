@@ -1,0 +1,624 @@
+{
+  "game": "",
+  "pack": "DELTARUNE msu",
+  "artist": "Toby Fox",
+  "output_prefix": "DELTARUNE",
+  "normalization": -21.0,
+  "verbosity": 2,
+  "keep_temps": false,
+  "first_track": 1,
+  "last_track": 61,
+  "tracks": [
+    {
+      "track_number": 1,
+      "title": "Opening Theme",
+      "sub_channels": [
+        {
+          "file": "tracks/AUDIO_INTRONOISE.ogg",
+          "pad_start": 240000
+        },
+        {
+          "file": "tracks/AUDIO_DRONE.ogg",
+          "fade_out": 144000
+        }
+      ],
+      "file": "tracks/AUDIO_INTRONOISE.ogg",
+      "output": "msu/DELTARUNE-1.pcm"
+    },
+    {
+      "track_number": 2,
+      "title": "Light World Overworld",
+      "file": "tracks/field_of_hopes.ogg",
+      "output": "msu/DELTARUNE-2.pcm",
+      "loop": 2403840,
+      "trim_end": 6129112
+    },
+    {
+      "track_number": 3,
+      "title": "Rain State Overworld",
+      "file": "tracks/rain.ogg",
+      "output": "msu/DELTARUNE-3.pcm",
+      "loop": 2740276,
+      "trim_end": 6678032
+    },
+    {
+      "track_number": 4,
+      "title": "Bunny Overworld",
+      "file": "tracks/berdly_theme.ogg",
+      "output": "msu/DELTARUNE-4.pcm"
+    },
+    {
+      "track_number": 5,
+      "title": "Light World Lost Woods",
+      "file": "tracks/forest.ogg",
+      "output": "msu/DELTARUNE-5.pcm"
+    },
+    {
+      "track_number": 6,
+      "title": "Opening Story Credits",
+      "file": "tracks/legend.ogg",
+      "output": "msu/DELTARUNE-6.pcm",
+      "pad_end": 300000
+    },
+    {
+      "track_number": 7,
+      "title": "Kakariko Village",
+      "file": "tracks/castletown.ogg",
+      "output": "msu/DELTARUNE-7.pcm"
+    },
+    {
+      "track_number": 8,
+      "title": "Mirror Portal",
+      "file": "tracks/snd_dtrans_lw.ogg",
+      "output": "msu/DELTARUNE-8.pcm"
+    },
+    {
+      "track_number": 9,
+      "title": "Dark World Overworld",
+      "file": "tracks/church_wip.ogg",
+      "output": "msu/DELTARUNE-9.pcm",
+      "loop": 358398,
+      "trim_end": 5087244
+    },
+    {
+      "track_number": 9,
+      "title": "Dark World Overworld",
+      "file": "tracks/cyber.ogg",
+      "output": "msu/DELTARUNE-9_alt.pcm"
+    },
+    {
+      "track_number": 10,
+      "title": "Pedestal Pull Sequence",
+      "file": "tracks/fanfare.ogg",
+      "output": "msu/DELTARUNE-10.pcm"
+    },
+    {
+      "track_number": 11,
+      "title": "File Select/Game Over",
+      "file": "tracks/AUDIO_STORY.ogg",
+      "output": "msu/DELTARUNE-11.pcm",
+      "loop": 1659848,
+      "trim_end": 3614366
+    },
+    {
+      "track_number": 12,
+      "title": "Kakariko Guards Summoned",
+      "file": "tracks/battle.ogg",
+      "output": "msu/DELTARUNE-12.pcm"
+    },
+    {
+      "track_number": 13,
+      "title": "Dark Death Mountain",
+      "file": "tracks/climb.ogg",
+      "output": "msu/DELTARUNE-13.pcm"
+    },
+    {
+      "track_number": 14,
+      "title": "Money Making Game",
+      "file": "tracks/minigame_kart.ogg",
+      "output": "msu/DELTARUNE-14.pcm",
+      "loop": 1285623,
+      "trim_end": 3776455
+    },
+    {
+      "track_number": 15,
+      "title": "Dark World Lost Woods",
+      "file": "tracks/darkchurch_intro.ogg",
+      "output": "msu/DELTARUNE-15.pcm"
+    },
+    {
+      "track_number": 16,
+      "title": "Hyrule Castle",
+      "file": "tracks/flower_castle.ogg",
+      "output": "msu/DELTARUNE-16.pcm",
+      "loop": 312800
+    },
+    {
+      "track_number": 16,
+      "title": "Hyrule Castle",
+      "file": "tracks/church_wip.ogg",
+      "output": "msu/DELTARUNE-16_alt.pcm",
+      "loop": 358398,
+      "trim_end": 5087244
+    },
+    {
+      "track_number": 17,
+      "title": "Generic Light World Dungeon",
+      "file": "tracks/piano_ambience.ogg",
+      "output": "msu/DELTARUNE-17.pcm",
+      "loop": 461815,
+      "trim_end": 9145964,
+      "normalization": -23.0
+    },
+    {
+      "track_number": 18,
+      "title": "Cave",
+      "file": "tracks/AUDIO_ANOTHERHIM.ogg",
+      "output": "msu/DELTARUNE-18.pcm"
+    },
+    {
+      "track_number": 19,
+      "title": "Boss Victory",
+      "file": "tracks/snd_usefountain.ogg",
+      "output": "msu/DELTARUNE-19.pcm",
+      "trim_end": 504000
+    },
+    {
+      "track_number": 20,
+      "title": "Sanctuary",
+      "file": "tracks/church_lw.ogg",
+      "output": "msu/DELTARUNE-20.pcm"
+    },
+    {
+      "track_number": 21,
+      "title": "Generic Boss Battle",
+      "file": "tracks/rudebuster_boss.ogg",
+      "output": "msu/DELTARUNE-21.pcm"
+    },
+    {
+      "track_number": 22,
+      "title": "Generic Dark World Dungeon",
+      "file": "tracks/church_dark_study.ogg",
+      "output": "msu/DELTARUNE-22.pcm",
+      "trim_start": 24000,
+      "normalization": -24.0
+    },
+    {
+      "track_number": 23,
+      "title": "Shop/Fortune Teller",
+      "file": "tracks/shop1.ogg",
+      "output": "msu/DELTARUNE-23.pcm"
+    },
+    {
+      "track_number": 24,
+      "title": "Cave 2",
+      "file": "tracks/flashback_excerpt.ogg",
+      "output": "msu/DELTARUNE-24.pcm",
+      "normalization": -27.0
+    },
+    {
+      "track_number": 25,
+      "title": "Princess Zelda's Rescue",
+      "file": "tracks/noelle_normal.ogg",
+      "output": "msu/DELTARUNE-25.pcm"
+    },
+    {
+      "track_number": 26,
+      "title": "Crystal Get",
+      "file": "tracks/findher.ogg",
+      "output": "msu/DELTARUNE-26.pcm"
+    },
+    {
+      "track_number": 27,
+      "title": "Fairy Fountain",
+      "sub_tracks": [
+        {
+          "file": "tracks/gerson_theme_intro.ogg"
+        },
+        {
+          "file": "tracks/gerson_theme_nointro.ogg"
+        }
+      ],
+      "file": "",
+      "output": "msu/DELTARUNE-27.pcm",
+      "loop": 3255000
+    },
+    {
+      "track_number": 28,
+      "title": "Agahnim's Theme",
+      "file": "tracks/knight_appears.ogg",
+      "output": "msu/DELTARUNE-28.pcm"
+    },
+    {
+      "track_number": 29,
+      "title": "Ganon Appears",
+      "file": "tracks/s_neo.ogg",
+      "output": "msu/DELTARUNE-29.pcm",
+      "trim_end": 576000,
+      "fade_out": 24000
+    },
+    {
+      "track_number": 30,
+      "title": "Ganon's Theme",
+      "file": "tracks/titan_pre.ogg",
+      "output": "msu/DELTARUNE-30.pcm",
+      "loop": 894468,
+      "trim_end": 1816068
+    },
+    {
+      "track_number": 31,
+      "title": "Ganon Fight",
+      "file": "tracks/titan_battle.ogg",
+      "output": "msu/DELTARUNE-31.pcm"
+    },
+    {
+      "track_number": 32,
+      "title": "Triforce Room",
+      "file": "tracks/THE_HOLY.ogg",
+      "output": "msu/DELTARUNE-32.pcm"
+    },
+    {
+      "track_number": 33,
+      "title": "Triumphant Return",
+      "sub_tracks": [
+        {
+          "file": "tracks/ch3_south_of_the_border.ogg",
+          "fade_out": 48000
+        },
+        {
+          "file": "tracks/festival.ogg",
+          "trim_end": 4933000,
+          "fade_out": 33000
+        },
+        {
+          "file": "tracks/town.ogg",
+          "trim_end": 4933000,
+          "fade_out": 48000
+        }
+      ],
+      "file": "",
+      "output": "msu/DELTARUNE-33.pcm"
+    },
+    {
+      "track_number": 34,
+      "title": "Credits",
+      "sub_tracks": [
+        {
+          "file": "tracks/dontforget.ogg"
+        },
+        {
+          "file": "tracks/ch2_credits.ogg"
+        },
+        {
+          "file": "tracks/ch4_credits.ogg"
+        },
+        {
+          "file": "tracks/ch5_credits.ogg",
+          "fade_in": 24000
+        }
+      ],
+      "file": "",
+      "output": "msu/DELTARUNE-34.pcm"
+    },
+    {
+      "track_number": 35,
+      "title": "Eastern Palace",
+      "file": "tracks/card_castle.ogg",
+      "output": "msu/DELTARUNE-35.pcm"
+    },
+    {
+      "track_number": 36,
+      "title": "Desert Palace",
+      "file": "tracks/cliff.ogg",
+      "output": "msu/DELTARUNE-36.pcm",
+      "normalization": -24.0
+    },
+    {
+      "track_number": 37,
+      "title": "Agahnim's Tower",
+      "file": "tracks/castle_top.ogg",
+      "output": "msu/DELTARUNE-37.pcm"
+    },
+    {
+      "track_number": 37,
+      "title": "Agahnim's Tower",
+      "file": "tracks/second_church.ogg",
+      "output": "msu/DELTARUNE-37_alt.pcm",
+      "normalization": -24.0
+    },
+    {
+      "track_number": 38,
+      "title": "Swamp Palace",
+      "file": "tracks/piano_ambience.ogg",
+      "output": "msu/DELTARUNE-38.pcm",
+      "loop": 461815,
+      "trim_end": 9145964,
+      "normalization": -23.0
+    },
+    {
+      "track_number": 39,
+      "title": "Palace of Darkness",
+      "file": "tracks/church_dark_study.ogg",
+      "output": "msu/DELTARUNE-39.pcm",
+      "trim_start": 24000,
+      "normalization": -24.0
+    },
+    {
+      "track_number": 40,
+      "title": "Misery Mire",
+      "file": "tracks/mansion.ogg",
+      "output": "msu/DELTARUNE-40.pcm",
+      "normalization": -24.0
+    },
+    {
+      "track_number": 41,
+      "title": "Skull Woods",
+      "file": "tracks/piano_ambience.ogg",
+      "output": "msu/DELTARUNE-41.pcm",
+      "loop": 461815,
+      "trim_end": 9145964,
+      "normalization": -23.0
+    },
+    {
+      "track_number": 42,
+      "title": "Ice Palace",
+      "file": "tracks/mansion.ogg",
+      "output": "msu/DELTARUNE-42.pcm",
+      "normalization": -24.0
+    },
+    {
+      "track_number": 43,
+      "title": "Tower of Hera",
+      "file": "tracks/cliff.ogg",
+      "output": "msu/DELTARUNE-43.pcm",
+      "normalization": -24.0
+    },
+    {
+      "track_number": 44,
+      "title": "Thieves' Town",
+      "file": "tracks/cybercity.ogg",
+      "output": "msu/DELTARUNE-44.pcm",
+      "normalization": -24.0
+    },
+    {
+      "track_number": 45,
+      "title": "Turtle Rock",
+      "file": "tracks/church_dark_study.ogg",
+      "output": "msu/DELTARUNE-45.pcm",
+      "trim_start": 24000,
+      "normalization": -24.0
+    },
+    {
+      "track_number": 46,
+      "title": "Ganon's Tower",
+      "file": "tracks/second_church.ogg",
+      "output": "msu/DELTARUNE-46.pcm",
+      "normalization": -24.0
+    },
+    {
+      "track_number": 46,
+      "title": "Ganon's Tower",
+      "file": "tracks/flower_castle.ogg",
+      "output": "msu/DELTARUNE-46_alt.pcm",
+      "loop": 312800
+    },
+    {
+      "track_number": 47,
+      "title": "Eastern Palace Boss",
+      "file": "tracks/checkers.ogg",
+      "output": "msu/DELTARUNE-47.pcm"
+    },
+    {
+      "track_number": 48,
+      "title": "Desert Palace Boss",
+      "sub_tracks": [
+        {
+          "file": "tracks/statue_level1.ogg"
+        },
+        {
+          "sub_channels": [
+            {
+              "file": "tracks/statue_level2.ogg"
+            },
+            {
+              "file": "tracks/statue_chord_basic.ogg"
+            }
+          ],
+          "file": "tracks/statue_level2.ogg"
+        },
+        {
+          "sub_channels": [
+            {
+              "file": "tracks/statue_level3.ogg"
+            },
+            {
+              "file": "tracks/statue_chord_basic.ogg"
+            }
+          ],
+          "file": "tracks/statue_level3.ogg"
+        },
+        {
+          "sub_channels": [
+            {
+              "file": "tracks/statue_level4.ogg"
+            },
+            {
+              "file": "tracks/statue_chord_basic.ogg"
+            }
+          ],
+          "file": "tracks/statue_level4.ogg"
+        },
+        {
+          "sub_channels": [
+            {
+              "file": "tracks/statue2_level1.ogg"
+            },
+            {
+              "file": "tracks/sound_battle_bg.ogg"
+            }
+          ],
+          "file": "tracks/statue2_level1.ogg"
+        },
+        {
+          "sub_channels": [
+            {
+              "file": "tracks/statue2_level2.ogg"
+            },
+            {
+              "file": "tracks/sound_battle_bg.ogg"
+            }
+          ],
+          "file": "tracks/statue2_level2.ogg"
+        },
+        {
+          "sub_channels": [
+            {
+              "file": "tracks/statue2_level3.ogg"
+            },
+            {
+              "file": "tracks/sound_battle_bg.ogg"
+            }
+          ],
+          "file": "tracks/statue2_level3.ogg"
+        },
+        {
+          "sub_channels": [
+            {
+              "file": "tracks/statue2_level4.ogg"
+            },
+            {
+              "file": "tracks/sound_battle_bg.ogg"
+            }
+          ],
+          "file": "tracks/statue2_level4.ogg"
+        },
+        {
+          "sub_channels": [
+            {
+              "file": "tracks/statue2_level5.ogg"
+            },
+            {
+              "file": "tracks/sound_battle_bg.ogg"
+            }
+          ],
+          "file": "tracks/statue2_level5.ogg"
+        }
+      ],
+      "output": "msu/DELTARUNE-48.pcm",
+      "normalization": -18.0
+    },
+    {
+      "track_number": 49,
+      "title": "Agahnim's Tower Boss",
+      "file": "tracks/nightmare_boss_heavy.ogg",
+      "output": "msu/DELTARUNE-49.pcm",
+      "normalization": -22.0
+    },
+    {
+      "track_number": 50,
+      "title": "Swamp Palace Boss",
+      "sub_tracks": [
+        {
+          "file": "tracks/castle_intro.ogg"
+        },
+        {
+          "file": "tracks/castle_loop.ogg"
+        }
+      ],
+      "output": "msu/DELTARUNE-50.pcm",
+      "loop": 1152000
+    },
+    {
+      "track_number": 51,
+      "title": "Palace of Darkness Boss",
+      "file": "tracks/pumpkin_boss.ogg",
+      "output": "msu/DELTARUNE-51.pcm",
+      "loop": 1417201,
+      "trim_end": 5564432
+    },
+    {
+      "track_number": 52,
+      "title": "Misery Mire Boss",
+      "file": "tracks/boxing_boss.ogg",
+      "output": "msu/DELTARUNE-52.pcm",
+      "normalization": -23.0
+    },
+    {
+      "track_number": 53,
+      "title": "Skull Woods Boss",
+      "file": "tracks/Flowerman_Arrangement.ogg",
+      "output": "msu/DELTARUNE-53.pcm"
+    },
+    {
+      "track_number": 54,
+      "title": "Ice Palace Boss",
+      "file": "tracks/kingboss.ogg",
+      "output": "msu/DELTARUNE-54.pcm"
+    },
+    {
+      "track_number": 55,
+      "title": "Tower of Hera Boss",
+      "file": "tracks/joker.ogg",
+      "output": "msu/DELTARUNE-55.pcm"
+    },
+    {
+      "track_number": 56,
+      "title": "Thieves' Town Boss",
+      "file": "tracks/spamton_neo_mix_ex_wip.ogg",
+      "output": "msu/DELTARUNE-56.pcm"
+    },
+    {
+      "track_number": 57,
+      "title": "Turtle Rock Boss",
+      "file": "tracks/ch4_extra_boss.ogg",
+      "output": "msu/DELTARUNE-57.pcm"
+    },
+    {
+      "track_number": 58,
+      "title": "Ganon's Tower Boss",
+      "file": "tracks/knight.ogg",
+      "output": "msu/DELTARUNE-58.pcm"
+    },
+    {
+      "track_number": 59,
+      "title": "Ganon's Tower 2",
+      "file": "tracks/church_zone3.ogg",
+      "output": "msu/DELTARUNE-59.pcm",
+      "normalization": -24.0
+    },
+    {
+      "track_number": 59,
+      "title": "Ganon's Tower 2",
+      "file": "tracks/castle_top.ogg",
+      "output": "msu/DELTARUNE-59_alt.pcm"
+    },
+    {
+      "track_number": 60,
+      "title": "Light World 2",
+      "sub_tracks": [
+        {
+          "file": "tracks/field_of_hopes_insaneintherain_intro.ogg"
+        },
+        {
+          "file": "tracks/field_of_hopes_insaneintherain_loop.ogg",
+          "loop": 0
+        }
+      ],
+      "output": "msu/DELTARUNE-60.pcm",
+      "loop": 1480000,
+      "trim_end": 8930000
+    },
+    {
+      "track_number": 61,
+      "title": "Dark World 2",
+      "file": "tracks/ch4_credits.ogg",
+      "output": "msu/DELTARUNE-61.pcm"
+    },
+    {
+      "track_number": 61,
+      "title": "Dark World 2",
+      "file": "tracks/tv_world.ogg",
+      "output": "msu/DELTARUNE-61_alt.pcm"
+    }
+  ]
+}
