@@ -9,10 +9,11 @@ MSU JSON for the DELTARUNE soundtrack.
 
 ## Steps:
 
-1. Extract all music files from the game files. If installed via steam they should be in `/path/to/steamfolder/common/steamapps/DELTARUNE/mus` (replace `path/to/steamfolder` with where the folder is on your machine). You will also need the sound effect files from the `chapter5_windows` folder.  
+1. Download the latest release from the releases tab, or clone this directory.
+2. Extract all music files from the game files. If installed via steam they should be in `/path/to/steamfolder/common/steamapps/DELTARUNE/mus` (replace `path/to/steamfolder` with where the folder is on your machine). You will also need the sound effect files from the `chapter5_windows` folder.  
 Place all music and sound files in `tracks`.
-2. Run `msupcm` with `tracks-clean.json`.
-3. Your MSU files should be created in the msu folder. You can use these and the DELTARUNE.msu file with your patched alttp ROM.
+3. Run `msupcm` with `tracks-clean.json`.
+4. Your MSU files should be created in the msu folder. You can use these and the DELTARUNE.msu file with your patched alttp ROM.
 
 ## Notes
 
@@ -28,4 +29,4 @@ Feel free to play around with tracks and/or add your own.
 
 ## Contact
 
-
+You can message me as frozenqub on discord if you have any issues.
